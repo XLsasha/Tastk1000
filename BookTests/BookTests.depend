@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725041640 source:c:\users\golod\onedrive\Рабочий стол\test\1000zadach\booktests\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
